@@ -118,6 +118,8 @@ technical_terms:
   - hot-cold storage
   - stack-too-deep
   - strawmap
+  - RowDAS
+  - supernode
 
 # Common transcription errors
 error_patterns:
@@ -227,3 +229,16 @@ error_patterns:
   - Farnibus: Barnabas
   - strong map: strawmap
   - straw map: strawmap
+  - yochum: jochem
+  - yochim: jochem
+  - yochimnet: jochemnet
+  - yohimnet: jochemnet
+  - AT70: 8070
+  - AT38: 8038
+  - LOTAS: RowDAS
+  - Lotas: RowDAS
+  - Rotas: RowDAS
+  - SuperNotes: supernodes
+  - Super Notes: supernodes
+  - super notes: supernodes
+  - superplanets: supernodes
